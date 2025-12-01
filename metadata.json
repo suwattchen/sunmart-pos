@@ -1,0 +1,5 @@
+{
+  "name": "SPOS | Sunmart Enterprise",
+  "description": "Enterprise-grade POS & ERP platform with AI integration, designed for high-scalability using Docker and Microservices architecture.",
+  "requestFramePermissions": []
+}
